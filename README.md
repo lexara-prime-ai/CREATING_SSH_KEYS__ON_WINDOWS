@@ -29,7 +29,7 @@ ssh -vT git@github.com
 
 Sample output:
 
-...bash
+```bash
 debug1: Trying private key: /c/Users/Username/.ssh/id_rsa
 debug1: Trying private key: /c/Users/Username/.ssh/id_dsa
 debug1: Trying private key: /c/Users/Username/.ssh/id_ecdsa
